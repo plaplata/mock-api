@@ -1,0 +1,75 @@
+{
+	"trabajadores": [
+		{
+			"id": 0,
+			"nombres": "Ana Barrios Soto",
+			"email": "anabarrios@bosch.com"
+		},
+		{
+			"id": 1,
+			"nombres": "Jorge Casas Erazo",
+			"email": "jcasas@bosch.com"
+		},
+		{
+			"id": 2,
+			"nombres": "Mishell Contreras Baca",
+			"email": "jcontreras@bosch.com"
+		},
+		{
+			"id": 3,
+			"nombres": "Carlos Duran Ventura",
+			"email": "cduran@bosch.com"
+		},
+		{
+			"id": 4,
+			"nombres": "Rodrigo Esparza Moreno",
+			"email": "resparza@bosch.com"
+		},
+		{
+			"id": 5,
+			"nombres": "Jonathan Espinoza Cuadros",
+			"email": "jespinoza@bosch.com"
+		},
+		{
+			"id": 6,
+			"nombres": "Felix Espinoza Nano",
+			"email": "anabarrios@bosch.com"
+		}
+	],
+	"categorias" :
+	[
+		{
+			"id" : 0,
+			"name": "Terma a Gas (GNV)"
+		},
+		{
+			"id" : 1,
+			"name": "Terma a Gas (GLP)"
+		},
+		{
+			"id" : 2,
+			"name": "Calentadores eléctricos"
+		}
+	],
+	"productos":
+	[
+		{
+			"id": 0,
+			"nombre": "CALENTADOR GNV BOSCH OXI 5.5 Lt.+ Kit",
+			"categoriaId": 0,
+			"codigos": ["7716-500-342-001,7716-500-342-002,7716-500-342-003,7716-500-342-004,7716-500-342-005"]
+		},
+		{
+			"id": 1,
+			"nombre": "CALENTADOR GLP BOSCH OXI 5.5 Lt.+ Kit",
+			"categoryId": 1,
+			"codigos": ["7716-500-343-001,7716-500-343-002,7716-500-343-003,7716-500-343-004,7716-500-343-005"]
+		},
+		{
+			"id": 2,
+			"nombre": "TERMA ELECTRICA BOSCH 50 Lt. TOP + Kit",
+			"categoryId": 2,
+			"codigos": ["7736-502-721-001,7736-502-721-002,7736-502-721-003,7736-502-721-004,7736-502-721-005"]
+		}
+	]
+}

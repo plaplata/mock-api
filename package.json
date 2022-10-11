@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "name": "mock-api",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plaplata/mock-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plaplata/mock-api/issues"
+  },
+  "homepage": "https://github.com/plaplata/mock-api#readme"
+}
