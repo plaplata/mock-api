@@ -62,13 +62,13 @@
 		{
 			"id": 1,
 			"nombre": "CALENTADOR GLP BOSCH OXI 5.5 Lt.+ Kit",
-			"categoryId": 1,
+			"categoriaId": 1,
 			"codigos": ["7716-500-343-001,7716-500-343-002,7716-500-343-003,7716-500-343-004,7716-500-343-005"]
 		},
 		{
 			"id": 2,
 			"nombre": "TERMA ELECTRICA BOSCH 50 Lt. TOP + Kit",
-			"categoryId": 2,
+			"categoriaId": 2,
 			"codigos": ["7736-502-721-001,7736-502-721-002,7736-502-721-003,7736-502-721-004,7736-502-721-005"]
 		}
 	]
